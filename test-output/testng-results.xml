@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="5709" started-at="2022-01-23T00:48:48 GST" finished-at="2022-01-23T00:48:54 GST">
+    <groups>
+    </groups>
+    <test name="RestAPIAuto1" duration-ms="5709" started-at="2022-01-23T00:48:48 GST" finished-at="2022-01-23T00:48:54 GST">
+      <class name="APITests">
+        <test-method status="PASS" signature="test1()[pri:0, instance:APITests@548e7350]" name="test1" duration-ms="3765" started-at="2022-01-23T00:48:48 GST" finished-at="2022-01-23T00:48:52 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:APITests@548e7350]" name="test2" duration-ms="1283" started-at="2022-01-23T00:48:52 GST" finished-at="2022-01-23T00:48:53 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:APITests@548e7350]" name="test3" duration-ms="297" started-at="2022-01-23T00:48:53 GST" finished-at="2022-01-23T00:48:54 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:APITests@548e7350]" name="test4" duration-ms="302" started-at="2022-01-23T00:48:54 GST" finished-at="2022-01-23T00:48:54 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- APITests -->
+    </test> <!-- RestAPIAuto1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
